@@ -20,5 +20,9 @@
   "devDependencies": {
     "@types/node": "^16.6.0",
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/express": "github:types/express",
+    "express": "^4.17.1"
   }
 }
