@@ -7,7 +7,10 @@
 <br/>
 
 ## Overview
+
+
 This app uses the TMDb API to allow uses to search for movies and read overviews on their selected movies. Users can vote for there top movies by category or simply upvote a movie of their choice.
+
 ---
 
 ## Table of Contents
