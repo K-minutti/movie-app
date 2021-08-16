@@ -7,6 +7,22 @@
         "version": 276,
         "index": 341
       }
+    ],
+    "nodemon.js": [
+      {
+        "id": "c0d72f56-6a1a-441c-aedd-1f93b38ab75a",
+        "line": 6,
+        "version": 89,
+        "index": 94
+      }
+    ],
+    "package.json": [
+      {
+        "id": "ff853a1b-b064-47d9-b995-3a6c86f51690",
+        "line": 18,
+        "version": 248,
+        "index": 463
+      }
     ]
   }
 }
