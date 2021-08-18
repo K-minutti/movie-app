@@ -23,6 +23,14 @@
         "version": 248,
         "index": 463
       }
+    ],
+    "src/app.ts": [
+      {
+        "id": "c8c1b163-bf2b-40c3-971f-fbb01958ecfd",
+        "line": 11,
+        "version": 180,
+        "index": 217
+      }
     ]
   }
 }
